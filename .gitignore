@@ -1,0 +1,5 @@
+config*
+config/config.conf
+reddit-venv*
+logs*
+__pycache__*
